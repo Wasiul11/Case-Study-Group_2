@@ -23,7 +23,7 @@
 
 # Brief Description
 
-### The case study is going to embark on the development of a system that will supply an endless number of storage spaces. Each row will have a number of things, including a product description, a price, a quantity, and a total. It is necessary to display the total or final amount at the conclusion of the last product. Any discounted items will be included in the final product total as well. 6% GST (Goods and Services Tax) is applied to the amount that is due.
+### The case study is going to embark on the development of a system that will supply an endless number of storage spaces. Each row will have a number of things, including a product description, a price, a quantity, and a total. It is necessary to display the total or final amount at the conclusion of the last product. Any discounted items will be included in the final product total as well. 6% GST (Goods and Services Tax) is applied to the amount that is .
  <br>
  <br>
 
