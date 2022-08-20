@@ -16,9 +16,8 @@
 | ----------- | ----------- |
 | ISLAM WASIUL | class.php |
 | AHMED ASFI | index.php |
-| IMRAN MD FAHAD MAHMUD| editpro.php |
 | SAMI ABDULLAH | mysql.php |
-| MUHAMMAD AIMAN NAJMI BIN ABDULLAH | addpro.php |
+
 <br>
 
 # Brief Description
